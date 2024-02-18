@@ -1,0 +1,26 @@
+body {
+    background-color: #DDD8C4;
+}
+
+div {
+    background-color: #69A297;
+}
+
+.navbar-expand {
+    color: #DDD8C4;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+main {
+    padding-top: 60px;
+}
+
+p {
+    padding-top: 20px;
+}

@@ -1,0 +1,30 @@
+.container-fluid {
+    background-color: #69A297;
+}
+
+nav {
+    background-color: #DDD8C4;
+}
+
+.btn-success {
+    background-color: #DDD8C4;
+}
+
+.btn-success:hover {
+    background-color: green;
+}
+
+.btn-danger {
+    background-color: #69A297;
+}
+
+.btn-danger:hover {
+    background-color: red;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+}
+
+

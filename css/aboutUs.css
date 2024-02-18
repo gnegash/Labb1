@@ -1,0 +1,67 @@
+body {
+    background-color: #DDD8C4;
+}
+
+div {
+    background-color: #69A297;
+}
+
+.navbar-expand {
+    background-color: #50808E;
+}
+
+main {
+    padding-top: 60px;
+}
+
+h2 {
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+article {
+    padding-left: 10px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+section {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.box1 {
+    width: 75%;
+    border: 2px solid black;
+    margin: 20px;
+    display: flex;
+}
+
+.box2 {
+    background-color: blue;
+    width: 25%;
+    height: 80%;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.contact-header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.content {
+    padding: 20px;
+}
